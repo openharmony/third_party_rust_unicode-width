@@ -3,7 +3,7 @@
     "Name": "unicode-width",
     "License": "Apache License V2.0, MIT",
     "License File": "LICENSE-APACHE, LICENSE-MIT",
-    "Version Number": "0.1.10",
+    "Version Number": "v0.1.14",
     "Owner": "fangting12@huawei.com",
     "Upstream URL": "https://github.com/unicode-rs/unicode-width",
     "Description": "A Rust library that provides support for working with Unicode character widths."
